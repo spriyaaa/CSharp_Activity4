@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\obj\Debug\Activity4UI.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\obj\Debug\Activity4UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\bin\Debug\Activity4UI.exe.config
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\bin\Debug\Activity4UI.exe
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\bin\Debug\Activity4UI.pdb
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\bin\Debug\Activity4BL.dll
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\bin\Debug\Activity4BL.pdb
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\obj\Debug\Activity4UI.csproj.CopyComplete
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\obj\Debug\Activity4UI.exe
+C:\Users\hp\source\repos\Activity4UI\Activity4UI\obj\Debug\Activity4UI.pdb
